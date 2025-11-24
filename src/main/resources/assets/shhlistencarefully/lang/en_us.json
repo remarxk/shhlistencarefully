@@ -1,0 +1,8 @@
+{
+  "config.shhlistencarefully.listen_time" : "Time to listen",
+  "config.shhlistencarefully.listen_time.tooltip" : "Time required to enter listening",
+  "config.shhlistencarefully.max_distance" : "Max distance",
+  "config.shhlistencarefully.max_distance.tooltip" : "The farthest distance you can hear",
+  "config.shhlistencarefully.max_num" : "Maximum number",
+  "config.shhlistencarefully.max_num.tooltip" : "The maximum number that can be listen"
+}

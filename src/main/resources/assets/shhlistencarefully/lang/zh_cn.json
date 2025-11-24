@@ -1,0 +1,8 @@
+{
+  "config.shhlistencarefully.listen_time" : "倾听时间",
+  "config.shhlistencarefully.listen_time.tooltip" : "进入倾听状态的时间",
+  "config.shhlistencarefully.max_distance" : "最大距离",
+  "config.shhlistencarefully.max_distance.tooltip" : "可以听到的最大距离",
+  "config.shhlistencarefully.max_num" : "最大数量",
+  "config.shhlistencarefully.max_num.tooltip" : "可以听到的最大数量"
+}
